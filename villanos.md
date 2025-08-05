@@ -10,3 +10,4 @@
 8. Los Kree
 9. Los Skrulls
 10. Dormammu
+11. Dr. Vazquez
